@@ -1,0 +1,12 @@
+# Bob MCP configuration (contains secrets)
+.bob/mcp.json
+
+# Git credentials
+.git-credentials
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
