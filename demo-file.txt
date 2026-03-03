@@ -1,0 +1,4 @@
+This is a demo file created via GitHub MCP tools.
+
+Created on: 2026-03-03
+Branch: feature/new-file
